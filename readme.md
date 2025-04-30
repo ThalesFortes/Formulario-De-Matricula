@@ -24,9 +24,9 @@
 <h2 id="layout">🎨 Layout</h2>
 
 <p align="center">
-      <img src="./assets/img/imageScreen-0.png" alt="Imagem da pagina demonstrando como ela e" width="400px">
-      <img src="./assets/img/imageScreen-1.png" alt="Imagem da pagina demonstrando como ela e" width="400px">
-      <img src="./assets/img/imageScreen-2.png" alt="Imagem da pagina demonstrando como ela e" width="400px">
+      <img src="./assets/img/imageScreen-0.png" alt="Imagem da pagina demonstrando como ela e" width="400px height=400px">
+      <img src="./assets/img/imageScreen-1.png" alt="Imagem da pagina demonstrando como ela e" width="400px height=400px">
+      <img src="./assets/img/imageScreen-2.png" alt="Imagem da pagina demonstrando como ela e" width="400px height=400px">
 </p>
 
 <h2 id="tech">💻 Technologies</h2>
